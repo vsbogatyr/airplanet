@@ -253,7 +253,7 @@ list-style: none;
     width: 17px;
     height: 18px;
     padding-right: 18px;
-    background-image: url(/img/icons/spritesheet.png);
+    background-image: url(img/icons/spritesheet.png);
     background-repeat: no-repeat;
     position: absolute;
     top: 50%;
@@ -312,7 +312,7 @@ list-style: none;
     margin-top: 18px;
     width: 880px;
     height: 290px;
-    background: url('/img/plane.png') center center no-repeat;
+    background: url('img/plane.png') center center no-repeat;
 }
 
 .price__title {
@@ -673,7 +673,7 @@ list-style: none;
     margin: 0 auto;
     height: 170px;
     background-color: #4bb56b;
-    background-image: url(/img/info.png);
+    background-image: url(img/info.png);
     margin-top: 28px;
 }
 
@@ -913,7 +913,7 @@ textarea::-webkit-input-placeholder {
     content: "";
     display: inline-block;
     vertical-align: middle;
-    background: url(/img/icons/spritesheet_submit.png);
+    background: url(img/icons/spritesheet_submit.png);
     background-repeat: no-repeat;
     width: 15px;
     height: 14px;
@@ -974,7 +974,7 @@ textarea::-webkit-input-placeholder {
     display: block;
     position: relative;
     font-size: 0px;
-    background-image: url(/img/social/spritesheet_social.png);
+    background-image: url(img/social/spritesheet_social.png);
     background-repeat: no-repeat;
     overflow: hidden;
 }
@@ -1027,7 +1027,7 @@ textarea::-webkit-input-placeholder {
 }
 
 .intro {   
-    background: url(/img/intro.jpg) no-repeat;
+    background: url(img/intro.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -1071,7 +1071,7 @@ textarea::-webkit-input-placeholder {
 .button:after {
     content: "";
     display: inline-block;
-    background: url(/img/icons/spritesheet_submit.png);
+    background: url(img/icons/spritesheet_submit.png);
     width: 15px;
     height: 14px;
     background-position: -45px -10px;
