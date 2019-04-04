@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-feed_icon {
+    width: 20px;
+    height: 18px;
+    background-position: -10px -10px;
+}
+
+.sprite-feed_icon_color {
+    width: 20px;
+    height: 18px;
+    background-position: -10px -48px;
+}
+
+.sprite-main_icon {
+    width: 17px;
+    height: 18px;
+    background-position: -10px -86px;
+}
+
+.sprite-main_icon_color {
+    width: 17px;
+    height: 18px;
+    background-position: -10px -124px;
+}
+
+.sprite-team_icon {
+    width: 23px;
+    height: 18px;
+    background-position: -10px -162px;
+}
+
+.sprite-team_icon_color {
+    width: 23px;
+    height: 18px;
+    background-position: -10px -200px;
+}

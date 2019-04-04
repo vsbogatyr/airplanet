@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-submit {
+    width: 15px;
+    height: 14px;
+    background-position: -10px -10px;
+}
+
+.sprite-submit_blue {
+    width: 15px;
+    height: 14px;
+    background-position: -45px -10px;
+}
