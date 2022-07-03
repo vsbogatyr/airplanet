@@ -1,3 +1,3 @@
 # airplanet
 Верстка БЭМ
-https://uamvua.github.io/airplanet/
+https://vsbogatyr.github.io/airplanet/
